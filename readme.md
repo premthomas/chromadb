@@ -1,1 +1,2 @@
-# ChromaDB implementation example
+# Chroma implementation with Python
+
